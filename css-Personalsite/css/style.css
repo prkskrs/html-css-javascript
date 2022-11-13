@@ -1,0 +1,27 @@
+.top-container{
+   background-color: #EAF6F6;
+   /* height: 100px;
+   width: 50%; */
+   /* height: 200px;
+   width: 200px;
+   padding: 20px;
+   margin: 10px;
+   border: 20px; */
+}
+
+.middle-container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+ }
+
+.bottom-container{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+ }
+
+h1{
+}
+p{
+}
